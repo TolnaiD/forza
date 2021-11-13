@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>S&D</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th><img width="100%" height="100%" src="sand d 01.png" alt=""></th>
+            <th><img src="https://media.sg.hu/kep/2021_06/0613forza_640x282.jpg" alt=""></th>
+        </tr>
+    </table>
+    <h1 algin="center">"Ez jó klubb lenne."</h1>
+ 
+    <video width="320" height="240" controls>
+        <source src="Forza Horizon 5 Official Announce Trailer.mp4" type="video/mp4">
+        <source src="movie.ogg" type="video/ogg">
+    </video>
+    <br>
+    <a href="https://xbox-one-jatek.arukereso.hu/microsoft/forza-horizon-5-xbox-one-p677855259/">katt ide, ha érdekel a forza most mennyibe kerül.</a>
+    <br>
+    <a href="https://tolnaidavid.github.io/egeszseges/egeszseges.html">Ez az egyik weboldalam remélem tetszik.</a>
+
+     <!--megjegyzés-->
+</body>
+</html>
